@@ -1,0 +1,4 @@
+services:
+  eventmanager:
+    class: '../service/EventManager'
+    arguments: ['%events']
