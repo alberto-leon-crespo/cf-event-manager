@@ -1,6 +1,6 @@
-import {Request} from "../../http/Request";
-import {Response} from "../../http/Response";
-import {BaseKernel} from "../../kernel/BaseKernel";
+import {Request} from "@carbonfrog/http/Request";
+import {Response} from "@carbonfrog/http/Response";
+import {BaseKernel} from "@carbonfrog/kernel/BaseKernel";
 
 export class BaseEvent {
 
