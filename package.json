@@ -1,36 +1,36 @@
 {
-  "name": "@carbonfrog/eventmanager",
-  "version": "0.4.2",
-  "description": "Carbonfrog eventmanager component",
-  "main": "index.js",
-  "scripts": {
-    "build": "tsc",
-    "install": "npm run build",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alberto-leon-crespo/cf-event-manager.git"
-  },
-  "keywords": [
-    "Events",
-    "Framework",
-    "Carbonfrog",
-    "Component"
-  ],
-  "author": "Alberto León Crespo",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/alberto-leon-crespo/cf-event-manager/issues"
-  },
-  "homepage": "https://github.com/alberto-leon-crespo/cf-event-manager#readme",
-  "dependencies": {
-    "@carbonfrog/kernel": "^0.4.2",
-    "@types/node": "^13.9.1",
-    "node-dependency-injection": "^2.6.2"
-  },
-  "devDependencies": {
-    "shelljs": "^0.8.3",
-    "shx": "^0.3.2"
-  }
+ "name": "@carbonfrog/eventmanager",
+ "version": "0.4.3",
+ "description": "Carbonfrog eventmanager component",
+ "main": "index.js",
+ "scripts": {
+  "build": "tsc",
+  "install": "npm run build",
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/alberto-leon-crespo/cf-event-manager.git"
+ },
+ "keywords": [
+  "Events",
+  "Framework",
+  "Carbonfrog",
+  "Component"
+ ],
+ "author": "Alberto León Crespo",
+ "license": "MIT",
+ "bugs": {
+  "url": "https://github.com/alberto-leon-crespo/cf-event-manager/issues"
+ },
+ "homepage": "https://github.com/alberto-leon-crespo/cf-event-manager#readme",
+ "dependencies": {
+  "@carbonfrog/kernel": "^0.4.2",
+  "@types/node": "^13.9.1",
+  "node-dependency-injection": "^2.6.2"
+ },
+ "devDependencies": {
+  "shelljs": "^0.8.3",
+  "shx": "^0.3.2"
+ }
 }
