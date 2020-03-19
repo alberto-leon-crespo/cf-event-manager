@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
     "experimentalDecorators": true,
-    "module": "module",
+    "module": "commonjs",
     "esModuleInterop": true,
-    "target": "esnext",
+    "target": "es2015",
     "noImplicitAny": true,
     "moduleResolution": "node",
     "sourceMap": true,
