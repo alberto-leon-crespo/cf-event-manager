@@ -1,6 +1,6 @@
 {
  "name": "@carbonfrog/eventmanager",
- "version": "0.4.21",
+ "version": "0.4.22",
  "description": "Carbonfrog eventmanager component",
  "type": "module",
  "main": "./dist/commonjs/index.js",
@@ -28,7 +28,7 @@
  },
  "homepage": "https://github.com/alberto-leon-crespo/cf-event-manager#readme",
  "dependencies": {
-  "@carbonfrog/kernel": "^0.4.21",
+  "@carbonfrog/kernel": "^0.4.22",
   "@types/node": "^13.9.1",
   "node-dependency-injection": "^2.6.2"
  },
