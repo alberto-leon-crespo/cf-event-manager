@@ -1,6 +1,6 @@
 {
  "name": "@carbonfrog/eventmanager",
- "version": "0.5.0",
+ "version": "0.5.2",
  "description": "Carbonfrog eventmanager component",
  "type": "module",
  "main": "./dist/commonjs/index.js",
